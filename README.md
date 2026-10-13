@@ -1,7 +1,7 @@
 # Hola, soy Juan Alberto Cuello 👋
 **Tech Lead | Socio Director | Ingeniero Full-Stack y de Infraestructura**
 
-Líder de TI e infraestructura con actuación ejecutiva (B3Systemas, HD Doctor Latam, Aeva) y profunda experiencia técnica. Especializado en arquitecturas de red complejas, desarrollo de APIs, integraciones con Inteligencia Artificial y gestión de infraestructura de alto volumen. Bilingüe (Portugués/Español).
+Líder de TI e infraestructura con actuación ejecutiva (B3Systemas, HD Doctor, Orix) y profunda experiencia técnica. Especializado en arquitecturas de red complejas, desarrollo de APIs, integraciones con Inteligencia Artificial y gestión de infraestructura de alto volumen. Bilingüe (Portugués/Español).
 
 ---
 
@@ -64,4 +64,4 @@ Líder de TI e infraestructura con actuación ejecutiva (B3Systemas, HD Doctor L
 ## 📫 Contacto
 
 * **Email:** acjuan@live.com
-* **LinkedIn:** 
+* **LinkedIn:** https://www.linkedin.com/in/acjuan/
