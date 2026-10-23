@@ -1,7 +1,7 @@
 # Hola, soy Juan Alberto Cuello 👋
-**Tech Lead | Socio Director | Ingeniero Full-Stack y de Infraestructura**
+**Chief Technology Officer | Arquitetura de Software e Inteligência Artificial |Arquiteto de IA | Design e planejamento de soluções de IA para empresas de serviços | Da estratégia ao modelo em produção**
 
-Líder de TI e infraestructura con actuación ejecutiva (B3Systemas, HD Doctor, Orix) y profunda experiencia técnica. Especializado en arquitecturas de red complejas, desarrollo de APIs, integraciones con Inteligencia Artificial y gestión de infraestructura de alto volumen. Bilingüe (Portugués/Español).
+Trayectoria en las áreas de tecnología, infraestructura y desarrollo, con amplia experiencia en liderazgo ejecutivo (CTO), optimización de operaciones y transformación digital. Enfocado en metodologías ágiles (Scrum), calidad de código y automatización de despliegues (CI/CD) en nuevas infraestructuras y entornos VPS. Mi carrera combina una base sólida en arquitectura de sistemas, redes de alta disponibilidad y gestión de bases de datos con la implementación de soluciones innovadoras basadas en Inteligencia Artificial y Big Data. Me dedico a la evolución constante y al desarrollo de soluciones tecnológicas robustas que alinean la ingeniería de software con los objetivos estratégicos del negocio. Actualmente busco seguir creciendo en el ámbito de la IA.
 
 ---
 
